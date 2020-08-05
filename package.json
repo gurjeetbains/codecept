@@ -1,0 +1,18 @@
+{
+  "name": "codeceptjsdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gurjeet Bains",
+  "license": "ISC",
+  "dependencies": {
+    "@wdio/selenium-standalone-service": "^6.1.14",
+    "allure-commandline": "^2.13.0",
+    "codeceptjs": "^2.6.7",
+    "mocha-junit-reporter": "^2.0.0",
+    "webdriverio": "^6.3.6"
+  }
+}
